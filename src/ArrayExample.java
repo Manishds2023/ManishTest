@@ -11,6 +11,7 @@ public class ArrayExample {
 		for(int b:a)
 		{
 			System.out.println(b);
+			System.out.println("Helloossssss");
 			
 		}
 
