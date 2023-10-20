@@ -7,6 +7,7 @@ public class DoWhileExample {
 		{
 			System.out.println(i);
 			i++;
+			System.out.println("Helloooooo.....");
 		}
 		while(i<5);
 	}
